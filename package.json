@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@nomicfoundation/hardhat-network-helpers": "^1.0.7",
+    "@openzeppelin/contracts": "^4.8.0",
     "chai": "^4.3.7",
     "mocha": "^10.1.0"
   }
