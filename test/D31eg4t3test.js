@@ -6,7 +6,7 @@ const { network } = require("hardhat")
 
 
 
-describe("TimeLock contract testing", async function (){
+describe(" D31eg4t3 contract testing", async function (){
 
     var Delegate=null;      // original contract
     var attack=null;        // attacker contract
@@ -46,12 +46,6 @@ beforeEach("deploy D31eg4t3 smart contract", async function (){
 
     })
 
-    // it("should hacked the contract", async function(){
-
-
-
-
-    // })
 
     })
 
